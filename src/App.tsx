@@ -81,8 +81,8 @@ function App() {
       const response: AxiosResponse<any, any> = await axios.post(
         apiUrl,
         {
-          model: "gpt-3.5-turbo",
-          messages: [{ role: "user", content: "hello, how much time?" }],
+          model: "gpt-4o",
+          messages: [{ role: "user", content: `create catchy title and description for ${state.service} shorts using following hashtags: ${state.keywords}.max ${15} characters`}],
         },
         {
           headers: {
