@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fea5b8aa.css",
+    "main.js": "./static/js/main.5dedc6eb.js",
+    "static/js/453.dec8cb29.chunk.js": "./static/js/453.dec8cb29.chunk.js",
+    "static/media/logoPicture.svg": "./static/media/logoPicture.ae1db6435bdbcfc92e4f10e616923dbb.svg",
+    "static/media/redhalf.png": "./static/media/redhalf.e8cf251492c9946327d8.png",
+    "static/media/yellowhalf.png": "./static/media/yellowhalf.9d44ff0787415da1c3a9.png",
+    "static/media/NunitoSans-LightItalic.ttf": "./static/media/NunitoSans-LightItalic.e283ccf24ccf910d9562.ttf",
+    "static/media/NunitoSans-SemiBoldItalic.ttf": "./static/media/NunitoSans-SemiBoldItalic.b098a6550df6d89952f5.ttf",
+    "static/media/NunitoSans-BoldItalic.ttf": "./static/media/NunitoSans-BoldItalic.5cf9d4cc161b6096ac9f.ttf",
+    "static/media/NunitoSans-SemiBold.ttf": "./static/media/NunitoSans-SemiBold.c8bbb7634d39fcec44ac.ttf",
+    "static/media/NunitoSans-Regular.ttf": "./static/media/NunitoSans-Regular.2edc7fe2ab682f995011.ttf",
+    "static/media/NunitoSans-Bold.ttf": "./static/media/NunitoSans-Bold.e43c5a897c0189a89b62.ttf",
+    "static/media/logo.svg": "./static/media/logo.b61cda44f36134fb592f4e754a2e89d5.svg",
+    "static/media/instagram.svg": "./static/media/instagram.204c90a37d510e746686a8b5ef2678a5.svg",
+    "static/media/youtube.svg": "./static/media/youtube.aa21f557042c19d2ce8b7ac95879e856.svg",
+    "static/media/loading.svg": "./static/media/loading.835484da4b91cd628614c943694ecab7.svg",
+    "static/media/facebook.svg": "./static/media/facebook.44f5fe018e5d35bad154d15ec17d114e.svg",
+    "static/media/tiktok.svg": "./static/media/tiktok.f137b46b133ef89cf27645a455e14aee.svg",
+    "static/media/copy.svg": "./static/media/copy.af25736dd8b9fef52252054d7e7bb8fa.svg",
+    "index.html": "./index.html",
+    "main.fea5b8aa.css.map": "./static/css/main.fea5b8aa.css.map",
+    "main.5dedc6eb.js.map": "./static/js/main.5dedc6eb.js.map",
+    "453.dec8cb29.chunk.js.map": "./static/js/453.dec8cb29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea5b8aa.css",
+    "static/js/main.5dedc6eb.js"
+  ]
+}
